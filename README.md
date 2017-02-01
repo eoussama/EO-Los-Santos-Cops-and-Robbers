@@ -1,10 +1,4 @@
 # [EO] Los Santos Cops and Robbers
- ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______
-|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|
- ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______
-|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|
-
-
 					 ___        ______    ________       ________     __      _____  ___  ___________  ______    ________
 					|"  |      /    " \  /"       )     /"       )   /""\    (\"   \|"  \("     _   ")/    " \  /"       )
 					||  |     // ____  \(:   \___/     (:   \___/   /    \   |.\\   \    |)__/  \\__/// ____  \(:   \___/
@@ -27,20 +21,12 @@
 									   by Eoussama A.K.A Compton
 
 
+## Description
 
- ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______
-|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|
- ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______
-|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|
+This is an ongoing project, started on 15/10/2016 (approximately), I'll try to update the gamemode reguraly, This is a free to use gamemodee, but in one condition, do no try to sell it or make any financial gains from it, The only reason this was created, is to let people share it and play with friends, Please, if you plan to use this gamemode, Just include the credits!
 
 
- **Description:**
-This is an ongoing project, started on 15/10/2016 (approximately), I'll try to update the gamemode reguraly,
-This is a free to use gamemodee, but in one condition, do no try to sell it or make any financial gains from it, The only reason this was created,
-is to let people share it and play with friends, Please, if you plan to use this gamemode, Just include the credits!
-
-
- **Credits:**
+ ## Credits
  ```
  Credits first, because they are inmportant,
  Scripter 	  : Oussama, A.K.A Compton
