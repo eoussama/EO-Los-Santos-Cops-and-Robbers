@@ -34,7 +34,7 @@
 |______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|______|
 
 
- **Description:
+ **Description:**
 This is an ongoing project, started on 15/10/2016 (approximately), I'll try to update the gamemode reguraly,
 This is a free to use gamemodee, but in one condition, do no try to sell it or make any financial gains from it, The only reason this was created,
 is to let people share it and play with friends, Please, if you plan to use this gamemode, Just include the credits!
@@ -132,6 +132,6 @@ is to let people share it and play with friends, Please, if you plan to use this
  and more...
 ```
  **Installation**
- +1- Copy the Gamemode files (.pwn and .amx fies) into your GameMode Folder
- +2- Copy and past the "server.cfg" file,
- +3-Install the Plugins/Includes stated on the Credit section in order to run the server properly
+ + 1- Copy the Gamemode files (.pwn and .amx fies) into your GameMode Folder
+ + 2- Copy and past the "server.cfg" file,
+ + 3-Install the Plugins/Includes stated on the Credit section in order to run the server properly
