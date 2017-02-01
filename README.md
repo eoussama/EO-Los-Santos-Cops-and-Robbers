@@ -40,7 +40,8 @@ This is a free to use gamemodee, but in one condition, do no try to sell it or m
 is to let people share it and play with friends, Please, if you plan to use this gamemode, Just include the credits!
 
 
- **Credits:
+ **Credits:**
+ ```
  Credits first, because they are inmportant,
  Scripter 	 : Oussama, A.K.A Compton
  a_samp		 : SA-MP Team
@@ -54,9 +55,9 @@ is to let people share it and play with friends, Please, if you plan to use this
 
  Attachements FS : Richie
  TextMenu	 : Jelly23
+```
 
-
- **Features
+ **Features**
  //newest features
  
 
@@ -129,7 +130,7 @@ is to let people share it and play with friends, Please, if you plan to use this
  Business system (Create stores/restaurantes/ammunations.... in game, see more via /rconcmds
  and more...
 
- **Installation
- 1- Copy the Gamemode files (.pwn and .amx fies) into your GameMode Folder
- 2- Copy and past the "server.cfg" file,
- 3-Install the Plugins/Includes stated on the Credit section in order to run the server properly
+ **Installation**
+ +1- Copy the Gamemode files (.pwn and .amx fies) into your GameMode Folder
+ +2- Copy and past the "server.cfg" file,
+ +3-Install the Plugins/Includes stated on the Credit section in order to run the server properly
