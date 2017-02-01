@@ -43,45 +43,45 @@ is to let people share it and play with friends, Please, if you plan to use this
  **Credits:**
  ```
  Credits first, because they are inmportant,
- Scripter 	 : Oussama, A.K.A Compton
- a_samp		 : SA-MP Team
- YSI and sscanf2 : Y_less
- Whirlpool	 : Y_Less
- Progress2	 : Created by Fl�vio Toribio: flavio_toribio@hotmail.com, Now maintained by Southclaw
- Streamer 	 : Incognito
- iZCMD	  	 : Originnaly developed by Zeex
- Zones    	 : Cueball
- Dialogs  	 : Gammix
+ Scripter 	  : Oussama, A.K.A Compton
+ a_samp		  : SA-MP Team
+ YSI and sscanf2  : Y_less
+ Whirlpool	  : Y_Less
+ Progress2	  : Created by Fl�vio Toribio: flavio_toribio@hotmail.com, Now maintained by Southclaw
+ Streamer 	  : Incognito
+ iZCMD	  	  : Originnaly developed by Zeex
+ Zones    	  : Cueball
+ Dialogs  	  : Gammix
 
- Attachements FS : Richie
- TextMenu	 : Jelly23
+ Attachements FS  : Richie
+ TextMenu	  : Jelly23
 ```
 
- **Features**
- //newest features
+ ## **Features**
+ ### newest features
  
 
- *new Gang Zone System (reate gang zones in game, zones are captured via /capture)
- *new Gang system(create gang in game, with leaders and gang rank, gang ranks can be gained by capturing areas)
- *new a new row added to /cmds conserning gang commands)
- *new CJ's ped animation added
- *new Costum error command
- *new You can now roc as well by pressing LEFT_ALT 
- *new LOTTO System
- *new Music when joining the server
- *Change Few strings were extended
- *Change Shop robbing animation changed to a different one
- *Change Hostname will change according to you server's name and version
- *Change /Rconcdsm is now more adjusted and clear
- *Change atmslots will display only the first 10 empty slots for memoty optimazation + the total available slots
- *Change Only regular player can use /afk 
- *Fix Clukin' bell title bug fixed
- *Fix /setskill bug fixed
- *Fix Illegal trucking deligvery mission bug fixed
- *Fix /shopcount for approppriate admin level
- *Fix /playerveh will only work for admin level 3 or above
- *Fix Many Bug fixes
-
+ * new Gang Zone System (reate gang zones in game, zones are captured via /capture)
+ * new Gang system(create gang in game, with leaders and gang rank, gang ranks can be gained by capturing areas)
+ * new a new row added to /cmds conserning gang commands)
+ * new CJ's ped animation added
+ * new Costum error command
+ * new You can now roc as well by pressing LEFT_ALT 
+ * new LOTTO System
+ * new Music when joining the server
+ * Change Few strings were extended
+ * Change Shop robbing animation changed to a different one
+ * Change Hostname will change according to you server's name and version
+ * Change /Rconcdsm is now more adjusted and clear
+ * Change atmslots will display only the first 10 empty slots for memoty optimazation + the total available slots
+ * Change Only regular player can use /afk 
+ * Fix Clukin' bell title bug fixed
+ * Fix /setskill bug fixed
+ * Fix Illegal trucking deligvery mission bug fixed
+ * Fix /shopcount for approppriate admin level
+ * Fix /playerveh will only work for admin level 3 or above
+ * Fix Many Bug fixes
+```
  SQLite Based
  Donut shop for cops (/eatdonut gives you health, /donuts displays how much donuts you have left)
  GPS system added, it will only work when you enter a car, /gps
@@ -129,7 +129,7 @@ is to let people share it and play with friends, Please, if you plan to use this
  House system (Create houses in game, see more via /rconcmds)
  Business system (Create stores/restaurantes/ammunations.... in game, see more via /rconcmds
  and more...
-
+```
  **Installation**
  +1- Copy the Gamemode files (.pwn and .amx fies) into your GameMode Folder
  +2- Copy and past the "server.cfg" file,
